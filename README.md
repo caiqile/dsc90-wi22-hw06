@@ -11,4 +11,4 @@ Below is a 3D scatter plot of Galton's data of child, father, and mother's heigh
 
 ## Question 3
 Below is a population graph showing each department in France, the deeper the color, the higher the population.
-<iframe src='plotly-france_fig.html' width=600 height=500 frameBorder=0></iframe>
+<iframe src='plotly-france_fig_edited.html' width=600 height=500 frameBorder=0></iframe>
