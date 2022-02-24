@@ -5,7 +5,7 @@
 <iframe src='snow_map.html' width=500 height=300 frameBorder=0></iframe>
 
 ## Question 2
-<iframe src='plotly-galton_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='plotly-galton_fig.html' width=400 height=300 frameBorder=0></iframe>
 
 ## Question 3
-<iframe src='plotly-france_fig.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='plotly-france_fig.html' width=400 height=300 frameBorder=0></iframe>
